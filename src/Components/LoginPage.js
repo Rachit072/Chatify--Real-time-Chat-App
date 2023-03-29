@@ -23,7 +23,7 @@ export default function LoginPage(){
                         <img style={{height:"24px",weight:"24px",padding:"1px 5px 0px 5px"}} src={"https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png"} alt=" "/> 
                     </div> 
                     <div style={{paddingTop:"2px",color:"white"}}>
-                        Continue with Google
+                        Sign in with Google
                     </div> 
                 </div>
                     <button className="btn"> <Link to="/home" style={{ textDecoration: 'none',color:"white" }}>Login</Link></button>
